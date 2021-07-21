@@ -11,3 +11,10 @@
   - example : https://www.amazon.com/product-reviews/B00AREGVUM/ref=cm_cr_arp_d_viewopt_sr?pageNumber=1
 
 ![image](https://user-images.githubusercontent.com/61724682/126502518-8a509bdb-80d6-494d-87c9-5df50877a20b.png)
+
+- 결과 DataFrame
+  - 아마존의 경우 리뷰를 최대 5000개까지 제공
+
+![image](https://user-images.githubusercontent.com/61724682/126506744-73e547b6-dc90-4b97-acea-592b43f72cd6.png)
+
+
