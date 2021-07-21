@@ -79,16 +79,8 @@ def Amazon(URL):
         
         except:
             
-            try : 
-                driver.find_element_by_xpath('//*[@id="cm_cr-pagination_bar"]/ul/li[2]/a').click()
-
-                WebDriverWait(driver, 15).until(
-                    EC.presence_of_element_located((By.XPATH, '//*[@id="a-autoid-3"]/span/input'))
-                )
-
-            except:
-                print("next button이 없습니다")
-                driver.close()
-                driver.quit()
-                df.to_excel("Amazon_{}.xlsx".format(product_Name))
-                return df
+            print("next button이 없습니다")
+            driver.close()
+            driver.quit()
+            df.to_excel("Amazon_{}.xlsx".format(product_Name))
+            return df
