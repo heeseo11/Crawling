@@ -19,13 +19,19 @@
 
 - [suning mall](https://github.com/heeseo11/Crawling/blob/main/Suning%20mall/README.md)
 
-  suning mall의 경우 정적 수집 활용 (beautifulsoup / selenium)
+  suning mall의 경우 동적 수집 활용 (beautifulsoup / selenium)
 
-- coupang 
+<img src = "https://user-images.githubusercontent.com/61724682/126812370-80c6ede3-8f36-4842-893e-73a60e75487c.png" width="30%" height="30%">
 
-- Naver store
+- [Naver store](https://github.com/heeseo11/Crawling/blob/main/Naver_store/README.md)
+
+  네이버 스토어의 경우 정적 수집 활용 (beautifulsoup / requests / urllib)
+ 
+  JSON파일 형태의 URL활용
 
 - shopee
+
+- coupang 
 
 - rakuten
 
