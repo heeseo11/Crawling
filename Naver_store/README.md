@@ -18,4 +18,8 @@
 
   <img src = "https://user-images.githubusercontent.com/61724682/126808537-ca863ab8-6ed8-41ee-bf63-e17390fde108.png" width="90%" height="90%">
 
+- 결과 Data
+
+  <img src = "https://user-images.githubusercontent.com/61724682/126810445-d71ae098-9a8a-4034-8bce-93abe4760b37.png" width="80%" height="80%">
+
 
