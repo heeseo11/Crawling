@@ -28,14 +28,18 @@
   네이버 스토어의 경우 정적 수집 활용 (beautifulsoup / requests / urllib)
  
   JSON파일 형태의 URL활용
+  
+<img src = "https://user-images.githubusercontent.com/61724682/126875416-b79f22d5-0aff-4c19-8b7f-9a1780168803.png" width="30%" height="30%">
 
-- shopee
+- [oliveyoung](https://github.com/heeseo11/Crawling/blob/main/Oliveyoung/README.md)
+
+  올리브영의 경우 동적 수집 활용 (beautifulsoup / selenium)
 
 - coupang 
 
 - rakuten
 
-- oliveyoung
+- shopee
 
 - 10000recipe(만개의 레시피)
 
