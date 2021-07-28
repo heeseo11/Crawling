@@ -35,6 +35,12 @@
 
   올리브영의 경우 동적 수집 활용 (beautifulsoup / selenium)
 
+<img src = "https://user-images.githubusercontent.com/61724682/127328099-d0e79086-5bc6-4949-9cf6-597e6a4d7e4c.png" width="30%" height="30%">
+
+- [instagram](https://github.com/heeseo11/Crawling/blob/main/Instagram/README.md)
+
+  인스타그램의 경우 동적 수집 활용 (beautifulsoup / selenium)
+
 - coupang 
 
 - rakuten
@@ -44,5 +50,3 @@
 - 10000recipe(만개의 레시피)
 
 - naver blog
-
-- instagram
