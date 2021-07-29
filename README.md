@@ -47,7 +47,7 @@
 
   쿠팡의 경우 정적 수집 활용(beautifulsoup / requests / urllib)
   
-  user-agent 확인
+  user-agent 
 
 - rakuten
 
