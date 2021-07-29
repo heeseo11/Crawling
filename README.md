@@ -41,7 +41,11 @@
 
   인스타그램의 경우 동적 수집 활용 (beautifulsoup / selenium)
 
-- coupang 
+<img src = "https://user-images.githubusercontent.com/61724682/127507299-6ad909f7-0d1e-4c24-a0f7-7358bcb68e73.png" width="30%" height="30%">
+
+- [coupang]()
+
+  쿠팡의 경우 정적 수집 활용(beautifulsoup / requests / urllib)
 
 - rakuten
 
