@@ -57,13 +57,21 @@
   만개의 레시피의 경우 정적 수집 활용 (beautifulsoup / requests / urllib)
   
 -------------
-<img src = "https://user-images.githubusercontent.com/61724682/128276899-f3af00b6-4d76-4d00-bfd0-bf052a7efec2.png" width="30%" height="30%">
+<img src = "https://user-images.githubusercontent.com/61724682/128372584-29be5040-078c-4997-bee8-379bae0b5457.png" width="30%" height="30%">
 
 - [naver blog](https://github.com/heeseo11/Crawling/blob/main/NaverBlog/README.md)
 
 네이버블로그의 경우 동적 수집 활용 (beautifulsoup / selenium)
 
+----------------
+<img src = "https://user-images.githubusercontent.com/61724682/128372207-4cbe795e-abab-4a14-970c-65d77dbec5a1.png" width="30%" height="30%">
+
+- [shopee](https://github.com/heeseo11/Crawling/blob/main/shopee/README.md)
+
+올리브영의 경우 동적 수집 활용 (beautifulsoup / selenium) 
+
+JSON파일 형태의 URL활용
+
 -------------
 - rakuten
 -------------
-- shopee
