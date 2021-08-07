@@ -73,5 +73,10 @@
 JSON파일 형태의 URL활용
 
 -------------
-- rakuten
+<img src = "https://user-images.githubusercontent.com/61724682/128581106-fa4d08e0-7c89-40e2-9989-b6aed144e724.png" width="30%" height="30%">
+
+- [rakuten](https://github.com/heeseo11/Crawling/blob/main/rakuten/README.md)
+
+  rakuten의 경우 정적 수집 활용 (beautifulsoup / requests / urllib)
+  
 -------------
