@@ -80,3 +80,8 @@ JSON파일 형태의 URL활용
   rakuten의 경우 정적 수집 활용 (beautifulsoup / requests / urllib)
   
 -------------
+<img src = "https://user-images.githubusercontent.com/61724682/128879226-7c0e36e1-4eb7-4b17-a193-cf7dd24f4da9.png" width="30%" height="30%">
+
+- [해먹남녀](https://github.com/heeseo11/Crawling/blob/main/rakuten/README.md)
+
+  크롤링 진행중
