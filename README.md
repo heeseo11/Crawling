@@ -84,4 +84,4 @@ JSON파일 형태의 URL활용
 
 - [해먹남녀](https://github.com/heeseo11/Crawling/blob/main/rakuten/README.md)
 
-  크롤링 진행중
+  해먹남녀의 경우 정적 수집 활용 (beautifulsoup / requests / urllib)
